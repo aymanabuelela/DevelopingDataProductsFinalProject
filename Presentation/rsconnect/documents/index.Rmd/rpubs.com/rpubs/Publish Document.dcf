@@ -1,0 +1,8 @@
+name: Publish Document
+title:
+account: rpubs
+server: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/260144/c0448471c24c4a3b8bd0a4abf20669ed
+bundleId: https://api.rpubs.com/api/v1/document/260144/c0448471c24c4a3b8bd0a4abf20669ed
+url: http://rpubs.com/fabioalvescarvalho/260144
+when: 1489961812.79532
